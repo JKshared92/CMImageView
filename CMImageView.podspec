@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "CMImageView"
-  s.version      = "0.0.1"
+  s.version      = "1.0.0"
   s.summary      = "自己用的imageView封装"
 
   s.homepage     = "https://github.com/JKshared92/CMImageView"
